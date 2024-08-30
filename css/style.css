@@ -229,7 +229,7 @@ h6,
 }
 
 .page-header {
-    background: linear-gradient(to right, rgb(222, 91, 16) 0%, rgba(2, 36, 91, 0) 100%), url(../img/carousel-2.jpg) center center no-repeat;
+    background: linear-gradient(to right, rgb(222, 91, 16) 0%, rgba(2, 36, 91, 0) 100%), url(../Image/About/F-1.png) center center no-repeat;
     background-size: cover;
 }
 
@@ -711,5 +711,5 @@ h6,
 }
 
 .textOrange {
-    color: #EA7000;
+    color: #EA7000 !important;
 }
